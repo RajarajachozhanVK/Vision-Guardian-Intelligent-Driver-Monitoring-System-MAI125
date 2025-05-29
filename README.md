@@ -71,7 +71,7 @@ Buzzer and Relay via digital outputs
 Configure Wi-Fi and phone numbers for alerts (via code or dashboard if used).
 
 🚨 Live Demo
-
+**https://youtu.be/y7kN3dbtOFU**
 
 🌐 Future Enhancements
 AI-based fatigue detection using camera + YOLO.
